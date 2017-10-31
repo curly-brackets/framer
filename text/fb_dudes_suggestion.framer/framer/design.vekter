@@ -1,0 +1,123 @@
+{
+  "version" : 2,
+  "root" : {
+    "id" : "=IfV1iQr",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "#fvO2y6h",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "=IfV1iQr",
+        "width" : 320,
+        "y" : 0,
+        "deviceType" : "apple-iphone-5s-space-gray",
+        "type" : "apple-iphone-5s-space-gray",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.8296875,
+            "parentid" : "#fvO2y6h",
+            "rotation" : 0,
+            "top" : 16,
+            "right" : 35,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 4,
+                      "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 4,
+                      "style" : "COLOR:#000000",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 4,
+                      "style" : "SIZE:16",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 4,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 4,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "COLOR:#000000",
+                      "SIZE:16",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2"
+                    ]
+                  },
+                  "text" : "word",
+                  "key" : "32h0b",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : "wordLabel",
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "`]g3N1z6",
+            "x" : 191,
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : null,
+            "height" : 19,
+            "opacity" : 1,
+            "width" : 39,
+            "widthFactor" : null,
+            "targetName" : "wordLabel",
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.0448943661971831,
+            "autoSize" : true,
+            "y" : 20
+          }
+        ],
+        "height" : 568,
+        "fillType" : "color",
+        "targetName" : "screenA",
+        "fillColor" : "#ffffff",
+        "name" : "screenA"
+      }
+    ]
+  }
+}

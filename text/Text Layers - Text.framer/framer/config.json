@@ -1,0 +1,22 @@
+{
+ "orientation": 0,
+ "updateDelay": 0.3,
+ "designModeSelected": 0,
+ "cachedDeviceHeight": 667,
+ "contentScale": 1,
+ "cachedDeviceWidth": 375,
+ "fullScreen": false,
+ "deviceType": "apple-iphone-7-silver",
+ "sharedPrototype": true,
+ "propertyPanelToggleStates": {},
+ "deviceOrientation": 0,
+ "selectedHand": "",
+ "showBezel": false,
+ "foldedCodeRanges": [
+  "{1288, 1771}",
+  "{3060, 167}",
+  "{3228, 143}",
+  "{3372, 270}"
+ ],
+ "deviceScale": "fit"
+}

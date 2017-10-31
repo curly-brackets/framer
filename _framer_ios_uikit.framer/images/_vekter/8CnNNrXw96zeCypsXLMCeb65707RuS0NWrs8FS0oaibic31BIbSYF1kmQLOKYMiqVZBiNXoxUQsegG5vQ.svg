@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="116px" viewBox="0 0 375 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Cells/Application/Mail Cell</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="28" y="115" width="347" height="1"></rect>
+        <filter x="-0.1%" y="-25.0%" width="100.1%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cells/Application/Mail-Cell">
+            <rect id="Background" fill="#FFFFFF" fill-rule="evenodd" x="0" y="0" width="375" height="116"></rect>
+            <g id="Separator" fill-opacity="1" fill="black">
+                <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <text id="Body" font-family="SFUIText-Regular, SF UI Text" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#8F8E94">
+                <tspan x="28" y="63.5">Paul and I can’t believe how quickly the week </tspan>
+                <tspan x="28" y="81.5">went by. It was so great to see you. Come visit us </tspan>
+                <tspan x="28" y="99.5">again soon and let us know how it goes…</tspan>
+            </text>
+            <text id="Subject" font-family="SFUIText-Regular, SF UI Text" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#030303">
+                <tspan x="28" y="44">Miss You Already</tspan>
+            </text>
+            <polygon id="Disclosure-Indicator" fill="#C7C7CC" fill-rule="evenodd" points="353.5 14 355 12.5 361.5 19 355 25.5 353.5 24 358.5 19"></polygon>
+            <text id="Timestamp" font-family="SFUIText-Regular, SF UI Text" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#8F8E94">
+                <tspan x="286.943184" y="24">9:15 AM</tspan>
+            </text>
+            <text id="Name" font-family="SFUIText-Medium, SF UI Text" font-size="17" font-weight="400" letter-spacing="-0.409999996" fill="#030303">
+                <tspan x="28" y="23.5">Natalia Maric</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

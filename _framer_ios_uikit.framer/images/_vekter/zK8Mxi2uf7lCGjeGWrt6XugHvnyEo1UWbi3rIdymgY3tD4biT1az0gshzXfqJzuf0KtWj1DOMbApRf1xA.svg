@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="9px" viewBox="0 0 22 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Gripper</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Overrides/Cell/Accessory/Edit-Gripper" transform="translate(-87.000000, -18.000000)" fill="#C8C7CC">
+            <path d="M87,18 L109,18 L109,19.5 L87,19.5 L87,18 Z M87,21.5 L109,21.5 L109,23 L87,23 L87,21.5 Z M87,25 L109,25 L109,26.5 L87,26.5 L87,25 Z" id="Gripper"></path>
+        </g>
+    </g>
+</svg>

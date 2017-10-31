@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Disclosure Indicator</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cells/Application/Messages-Cell" transform="translate(-353.000000, -12.000000)" fill="#C7C7CC">
+            <polygon id="Disclosure-Indicator" points="353.5 14 355 12.5 361.5 19 355 25.5 353.5 24 358.5 19"></polygon>
+        </g>
+    </g>
+</svg>

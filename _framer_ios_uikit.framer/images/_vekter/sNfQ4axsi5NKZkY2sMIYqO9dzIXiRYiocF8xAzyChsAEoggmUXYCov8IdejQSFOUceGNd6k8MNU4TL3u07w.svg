@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="44px" viewBox="0 0 124 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Overrides/Cell/Accessory/Stepper</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="#EFEFF4" x="-351" y="-1451" width="3142" height="4674"></rect>
+        <g id="Overrides/Cell/Accessory/Stepper">
+            <g id="Stepper" transform="translate(15.000000, 7.500000)">
+                <rect id="Button-Background" stroke="#0076FF" x="0.5" y="0.5" width="93" height="28" rx="4"></rect>
+                <rect id="Separator" fill="#0076FF" x="46.5" y="1" width="1" height="27"></rect>
+                <rect id="Reduce" fill="#0076FF" x="16" y="14" width="15.5" height="1.5"></rect>
+                <path d="M69.5,13.5 L62.5,13.5 L62.5,15 L69.5,15 L69.5,22 L71,22 L71,15 L78,15 L78,13.5 L71,13.5 L71,6.5 L69.5,6.5 L69.5,13.5 Z" id="Increase" fill="#0076FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

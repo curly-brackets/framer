@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="44px" viewBox="0 0 82 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Cells/Elements/Action</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cells/Elements/Action">
+            <rect id="Background" fill="#8F8E94" fill-rule="evenodd" x="0" y="0" width="82" height="44"></rect>
+            <text id="Label" font-family="SFUIText-Regular, SF UI Text" font-size="18" font-weight="normal" letter-spacing="-0.449999988" fill="#FFFFFF">
+                <tspan x="15.3719726" y="29">Action</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

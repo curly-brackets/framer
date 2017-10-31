@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="667px" viewBox="0 0 375 667" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Views/Action Sheet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,0 L355,0 L355,41.9988881 C355,48.6269192 349.636234,54 342.997857,54 L12.0021429,54 C5.37354241,54 0,48.6248531 0,41.9988881 L0,0 Z" id="path-1"></path>
+        <rect id="path-2" x="0" y="0" width="355" height="57"></rect>
+        <rect id="path-3" x="0" y="56" width="355" height="1"></rect>
+        <rect id="path-4" x="0" y="0" width="355" height="58"></rect>
+        <rect id="path-5" x="0" y="56.9824561" width="355" height="1"></rect>
+        <path d="M0,23.995864 C0,17.3707312 5.36376626,12 12.0021429,12 L342.997857,12 C349.626458,12 355,17.3668117 355,23.995864 L355,58 L0,58 L0,23.995864 Z" id="path-6"></path>
+        <rect id="path-7" x="0" y="56.9824561" width="355" height="1"></rect>
+    </defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Views/Action-Sheet">
+            <rect id="Modal-Overlay" fill-opacity="0.4" fill="#000000" fill-rule="evenodd" x="0" y="0" width="375" height="667"></rect>
+            <g id="Cancel-Button" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 601.000000)">
+                <rect id="Guide-Edges" x="0" y="0" width="375" height="66"></rect>
+                <rect id="Close-Background" fill="#FFFFFF" x="10" y="0" width="355" height="57" rx="12"></rect>
+                <text id="Cancel" font-family="SFUIDisplay-Semibold, SF UI Display" font-size="20" font-weight="500" letter-spacing="0.379999995" fill="#0076FF">
+                    <tspan x="154.360977" y="35.5">Cancel</tspan>
+                </text>
+            </g>
+            <g id="Overrides/Action-Sheet/Bottom/Delete-Label" transform="translate(10.000000, 537.000000)">
+                <g id="Alert-Background" fill-rule="evenodd">
+                    <use fill-opacity="0.8" fill="#FCFCFC" xlink:href="#path-1"></use>
+                    <use fill-opacity="0.5" fill="#FFFFFF" style="mix-blend-mode: soft-light;" xlink:href="#path-1"></use>
+                </g>
+                <text id="Delete-Label" font-family="SFUIDisplay-Regular, SF UI Display" font-size="20" font-weight="normal" letter-spacing="0.379999995" fill="#FE3824">
+                    <tspan x="121.708828" y="33.5748393">Delete Labe</tspan>
+                    <tspan x="229.091953" y="33.5748393">l</tspan>
+                </text>
+            </g>
+            <g id="Overrides/Action-Sheet/Middle/Label" transform="translate(10.000000, 480.000000)">
+                <g id="Alert-Background" fill-rule="evenodd">
+                    <use fill-opacity="0.8" fill="#FCFCFC" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.5" fill="#FFFFFF" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                </g>
+                <text id="Label" font-family="SFUIDisplay-Regular, SF UI Display" font-size="20" font-weight="normal" letter-spacing="0.379999995" fill="#0076FF">
+                    <tspan x="153.190195" y="34.5">Labe</tspan>
+                    <tspan x="197.610586" y="34.5">l</tspan>
+                </text>
+                <g id="Button-Edges" fill-rule="evenodd" fill="#4D4D4D">
+                    <use fill-opacity="0.779999971" style="mix-blend-mode: color-burn;" xlink:href="#path-3"></use>
+                    <use style="mix-blend-mode: overlay;" xlink:href="#path-3"></use>
+                </g>
+            </g>
+            <g id="Overrides/Action-Sheet/Middle/Label" transform="translate(10.000000, 422.000000)">
+                <g id="Alert-Background" fill-rule="evenodd">
+                    <use fill-opacity="0.8" fill="#FCFCFC" xlink:href="#path-4"></use>
+                    <use fill-opacity="0.5" fill="#FFFFFF" style="mix-blend-mode: soft-light;" xlink:href="#path-4"></use>
+                </g>
+                <text id="Label" font-family="SFUIDisplay-Regular, SF UI Display" font-size="20" font-weight="normal" letter-spacing="0.379999995" fill="#0076FF">
+                    <tspan x="153.190195" y="34.969697">Labe</tspan>
+                    <tspan x="197.610586" y="34.969697">l</tspan>
+                </text>
+                <g id="Button-Edges" fill-rule="evenodd" fill="#4D4D4D">
+                    <use fill-opacity="0.779999971" style="mix-blend-mode: color-burn;" xlink:href="#path-5"></use>
+                    <use style="mix-blend-mode: overlay;" xlink:href="#path-5"></use>
+                </g>
+            </g>
+            <g id="Overrides/Action-Sheet/Top/Description" transform="translate(10.000000, 364.000000)">
+                <g id="Alert-Background" fill-rule="evenodd">
+                    <use fill-opacity="0.8" fill="#FCFCFC" xlink:href="#path-6"></use>
+                    <use fill-opacity="0.5" fill="#FFFFFF" style="mix-blend-mode: soft-light;" xlink:href="#path-6"></use>
+                </g>
+                <g id="Path" fill-rule="evenodd" fill="#4D4D4D">
+                    <use fill-opacity="0.779999971" style="mix-blend-mode: color-burn;" xlink:href="#path-7"></use>
+                    <use style="mix-blend-mode: overlay;" xlink:href="#path-7"></use>
+                </g>
+                <text id="Action-Sheet-Descrip" font-family="SFUIText-Semibold, SF UI Text" font-size="13" font-weight="500" letter-spacing="-0.0799999982" fill="#8F8E94">
+                    <tspan x="99.0635156" y="40.6666667">Action Sheet Description</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

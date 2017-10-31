@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="44px" viewBox="0 0 170 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Overrides/Cell/Label/Check + Label</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="#EFEFF4" x="-100" y="-1451" width="3142" height="4674"></rect>
+        <g id="Overrides/Cell/Label/Check-+-Label">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="43" width="44" height="1"></rect>
+            <g id="Pin" transform="translate(15.000000, 17.000000)" fill="#0076FF">
+                <polygon id="Checkmark" points="1.5 4.5 0 6 4 10 13 1.5 11.5 0 4 7"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

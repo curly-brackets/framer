@@ -1,0 +1,85 @@
+app.coffee
+framer/backups/backup-2017-07-25 16.13.45.coffee
+framer/backups/backup-2017-07-25 16.13.45.vekter
+framer/backups/backup-2017-07-25 16.14.45.coffee
+framer/backups/backup-2017-07-25 16.14.45.vekter
+framer/backups/backup-2017-07-25 16.15.45.coffee
+framer/backups/backup-2017-07-25 16.16.45.coffee
+framer/backups/backup-2017-07-25 16.18.45.coffee
+framer/backups/backup-2017-07-25 16.19.45.coffee
+framer/backups/backup-2017-07-25 16.20.45.coffee
+framer/backups/backup-2017-07-25 16.21.45.coffee
+framer/backups/backup-2017-07-25 16.22.45.coffee
+framer/backups/backup-2017-07-25 17.18.17.coffee
+framer/backups/backup-2017-07-25 17.18.17.vekter
+framer/backups/backup-2017-07-25 18.08.33.coffee
+framer/backups/backup-2017-07-25 18.08.33.vekter
+framer/backups/backup-2017-07-25 18.09.33.coffee
+framer/backups/backup-2017-07-28 16.35.01.coffee
+framer/backups/backup-2017-07-28 16.35.01.vekter
+framer/backups/backup-2017-07-28 16.36.01.coffee
+framer/backups/backup-2017-07-28 16.36.01.vekter
+framer/backups/backup-2017-07-28 16.37.01.coffee
+framer/backups/backup-2017-07-28 16.38.01.coffee
+framer/backups/backup-2017-07-28 16.38.01.vekter
+framer/backups/backup-2017-07-28 16.39.01.coffee
+framer/backups/backup-2017-07-28 16.40.01.coffee
+framer/backups/backup-2017-07-28 16.40.01.vekter
+framer/backups/backup-2017-07-28 16.41.01.vekter
+framer/backups/backup-2017-07-28 16.42.01.coffee
+framer/backups/backup-2017-07-28 16.42.01.vekter
+framer/backups/backup-2017-07-28 16.43.01.vekter
+framer/backups/backup-2017-07-28 16.44.01.vekter
+framer/backups/backup-2017-07-28 16.45.01.vekter
+framer/backups/backup-2017-07-28 16.46.01.coffee
+framer/backups/backup-2017-07-28 16.46.01.vekter
+framer/backups/backup-2017-07-30 19.02.16.coffee
+framer/backups/backup-2017-07-30 19.02.16.vekter
+framer/backups/backup-2017-07-31 16.54.56.coffee
+framer/backups/backup-2017-07-31 16.54.56.vekter
+framer/backups/backup-2017-08-01 14.09.53.coffee
+framer/backups/backup-2017-08-01 14.09.53.vekter
+framer/coffee-script.js
+framer/config.json
+framer/design.vekter
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.js.map.old
+framer/framer.js.map.old1
+framer/framer.js.map.old2
+framer/framer.js.map.old3
+framer/framer.js.map.old4
+framer/framer.js.map.old5
+framer/framer.js.map.old6
+framer/framer.js.map.old7
+framer/framer.js.old
+framer/framer.js.old1
+framer/framer.js.old2
+framer/framer.js.old3
+framer/framer.js.old4
+framer/framer.js.old5
+framer/framer.js.old6
+framer/framer.js.old7
+framer/framer.modules.js
+framer/framer.vekter.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/social-1200x630.png
+framer/social-800x600.png
+framer/social-80x80.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+index.html
+modules/myModule.coffee

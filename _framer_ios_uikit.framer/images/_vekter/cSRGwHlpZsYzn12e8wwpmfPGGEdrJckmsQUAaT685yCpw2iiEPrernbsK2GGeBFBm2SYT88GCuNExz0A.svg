@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="667px" viewBox="0 0 375 667" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Views/Alerts/Two-Button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="667"></rect>
+        <rect id="path-2" x="0.5" y="0.5" width="270" height="180" rx="12"></rect>
+        <rect id="path-3" x="0.5" y="0.5" width="270" height="1"></rect>
+        <rect id="path-4" x="135.5" y="1" width="1" height="43.5"></rect>
+    </defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Views/Alerts/Two-Button">
+            <g id="Modal-Overlay" fill="#000000">
+                <use fill-opacity="0.4" xlink:href="#path-1"></use>
+                <use style="mix-blend-mode: hue;" xlink:href="#path-1"></use>
+            </g>
+            <g id="Alert" stroke-width="1" transform="translate(52.000000, 243.000000)">
+                <g id="Alert-Background">
+                    <use fill-opacity="0.8" fill="#FCFCFC" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.5" fill="#FFFFFF" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+                </g>
+                <g id="Buttons" transform="translate(0.000000, 136.000000)">
+                    <g id="Path" fill="#4D4D4D">
+                        <use fill-opacity="0.780000031" style="mix-blend-mode: color-burn;" xlink:href="#path-3"></use>
+                        <use style="mix-blend-mode: overlay;" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Rectangle-276" fill="#4D4D4D">
+                        <use fill-opacity="0.780000031" style="mix-blend-mode: color-burn;" xlink:href="#path-4"></use>
+                        <use style="mix-blend-mode: overlay;" xlink:href="#path-4"></use>
+                    </g>
+                    <text id="OK" font-family="SFUIText-Medium, SF UI Text" font-size="17" font-weight="400" letter-spacing="-0.409999996" fill="#0076FF">
+                        <tspan x="191.058437" y="29">OK</tspan>
+                    </text>
+                    <text id="Don’t-Allow" font-family="SFUIText-Regular, SF UI Text" font-size="17" font-weight="normal" letter-spacing="-0.409999996" fill="#0076FF">
+                        <tspan x="24.6546582" y="29">Don’t Allow</tspan>
+                    </text>
+                </g>
+                <text id="Description" font-family="SFUIText-Regular, SF UI Text" font-size="13" font-weight="normal" line-spacing="16" letter-spacing="-0.0799999982" fill="#030303">
+                    <tspan x="38.9725879" y="80.5">Notifications may include alerts,</tspan>
+                    <tspan x="17.8565039" y="96.5">sounds and icon badges. These can be</tspan>
+                    <tspan x="67.5305957" y="112.5">configured in Settings.</tspan>
+                </text>
+                <text id="Title" font-family="SFUIText-Medium, SF UI Text" font-size="17" font-weight="400" letter-spacing="-0.409999996" fill="#030303">
+                    <tspan x="34.4132421" y="36.5">“AppName” Would Like to</tspan>
+                    <tspan x="46.9748437" y="56.5">Send You Notifications</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

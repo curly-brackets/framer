@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="46px" viewBox="0 0 40 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Misc/Elements/Text Selection</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Misc/Elements/Text-Selection" fill="#0076FF">
+            <g id="Highlight" opacity="0.200000003" stroke-width="1" transform="translate(5.000000, 9.000000)">
+                <rect x="0" y="0.5" width="30" height="25"></rect>
+            </g>
+            <path d="M4.5,10.9093119 C1.93988196,10.4390556 0,8.19606963 0,5.5 C0,2.46243388 2.46243388,0 5.5,0 C8.53756612,0 11,2.46243388 11,5.5 C11,8.19606963 9.06011804,10.4390556 6.5,10.9093119 L6.5,36 L4.5,36 L4.5,10.9093119 Z" id="Selection-Opening"></path>
+            <path d="M33.5,35.0906881 C30.939882,35.5609444 29,37.8039304 29,40.5 C29,43.5375661 31.4624339,46 34.5,46 C37.5375661,46 40,43.5375661 40,40.5 C40,37.8039304 38.060118,35.5609444 35.5,35.0906881 L35.5,9 L33.5,9 L33.5,35.0906881 Z" id="Selection-Closing"></path>
+        </g>
+    </g>
+</svg>
