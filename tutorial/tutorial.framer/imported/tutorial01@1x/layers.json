@@ -23,7 +23,7 @@
 				"maskFrame": null,
 				"layerFrame": {
 					"x": 95,
-					"y": 106,
+					"y": 306,
 					"width": 237,
 					"height": 353
 				},
@@ -35,7 +35,7 @@
 					"path": "images/Layer-menu-rdyxn0i3.png",
 					"frame": {
 						"x": 95,
-						"y": 106,
+						"y": 306,
 						"width": 237,
 						"height": 353
 					}
@@ -50,7 +50,7 @@
 				"maskFrame": null,
 				"layerFrame": {
 					"x": 38,
-					"y": 296,
+					"y": 496,
 					"width": 115,
 					"height": 65
 				},
@@ -62,7 +62,7 @@
 					"path": "images/Layer-btnPlus-nde0mjq0.png",
 					"frame": {
 						"x": 38,
-						"y": 296,
+						"y": 496,
 						"width": 115,
 						"height": 65
 					}

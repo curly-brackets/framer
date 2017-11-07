@@ -24,7 +24,7 @@ window.__imported__["tutorial01@1x/layers.json.js"] = [
 				"maskFrame": null,
 				"layerFrame": {
 					"x": 95,
-					"y": 106,
+					"y": 306,
 					"width": 237,
 					"height": 353
 				},
@@ -36,7 +36,7 @@ window.__imported__["tutorial01@1x/layers.json.js"] = [
 					"path": "images/Layer-menu-rdyxn0i3.png",
 					"frame": {
 						"x": 95,
-						"y": 106,
+						"y": 306,
 						"width": 237,
 						"height": 353
 					}
@@ -51,7 +51,7 @@ window.__imported__["tutorial01@1x/layers.json.js"] = [
 				"maskFrame": null,
 				"layerFrame": {
 					"x": 38,
-					"y": 296,
+					"y": 496,
 					"width": 115,
 					"height": 65
 				},
@@ -63,7 +63,7 @@ window.__imported__["tutorial01@1x/layers.json.js"] = [
 					"path": "images/Layer-btnPlus-nde0mjq0.png",
 					"frame": {
 						"x": 38,
-						"y": 296,
+						"y": 496,
 						"width": 115,
 						"height": 65
 					}

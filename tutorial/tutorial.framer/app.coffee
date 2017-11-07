@@ -3,6 +3,10 @@ sketch = Framer.Importer.load("imported/tutorial01@1x", scale: 1)
 
 Utils.globalLayers(sketch)
 
+#grows from bottom corner
+menu.originX = 0
+menu.originY = 1
+
 menu.states.menuOff =
 	opacity: 0.00
 	scale: 0.50
