@@ -17,10 +17,6 @@ framer/images/icon-192.png
 framer/images/icon-76.png
 framer/manifest.txt
 framer/preview.png
-framer/social-1200x630.png
-framer/social-800x600.png
-framer/social-80x80.png
-framer/social-880x460.png
 framer/style.css
 framer/version
 images/_vekter/03vxEkM8AlugAFoiGv1D2RwC2PeUHE7WV5j74p6kqIqQef0mIw3sfyPebouAn8KFCJsK3qTg1UtGyCxdpKyyA.svg
