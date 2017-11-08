@@ -1,5 +1,5 @@
 {
-  "version" : 2,
+  "version" : 12,
   "root" : {
     "id" : ")-5f3ISC",
     "fillColor" : "#fff",
@@ -11,8 +11,12 @@
         "__class" : "FrameNode",
         "x" : 0,
         "parentid" : ")-5f3ISC",
+        "exportOptions" : [
+
+        ],
         "width" : 320,
         "y" : 0,
+        "exportIncludesBackground" : true,
         "deviceType" : "apple-iphone-5s-space-gray",
         "type" : "apple-iphone-5s-space-gray",
         "fillGradient" : {

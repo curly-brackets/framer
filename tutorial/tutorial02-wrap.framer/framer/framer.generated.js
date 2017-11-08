@@ -7,8 +7,8 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 	{
 		"objectId": "BDEB32CC-7A99-42DE-9EBB-DE0DDCEF7594",
 		"kind": "artboard",
-		"name": "ab01",
-		"originalName": "ab01",
+		"name": "home",
+		"originalName": "home",
 		"maskFrame": null,
 		"layerFrame": {
 			"x": 171,
@@ -102,12 +102,38 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 				"children": []
 			}
 		]
+	},
+	{
+		"objectId": "C9A44899-EE83-4204-A49D-2E4BE62335BE",
+		"kind": "artboard",
+		"name": "article",
+		"originalName": "article",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 646,
+			"y": -9,
+			"width": 375,
+			"height": 1451
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(255, 255, 255, 1)",
+		"image": {
+			"path": "images/Layer-article-qzlbndq4.png",
+			"frame": {
+				"x": 646,
+				"y": -9,
+				"width": 375,
+				"height": 1451
+			}
+		},
+		"children": []
 	}
 ]
 if (DeviceComponent) {DeviceComponent.Devices["iphone-6-silver"].deviceImageJP2 = false};
-if (window.Framer) {window.Framer.Defaults.DeviceView = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-7-black","contentScale":1,"hideBezel":true,"orientation":0};
+if (window.Framer) {window.Framer.Defaults.DeviceView = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-8-space-gray","contentScale":1,"hideBezel":true,"orientation":0};
 }
-if (window.Framer) {window.Framer.Defaults.DeviceComponent = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-7-black","contentScale":1,"hideBezel":true,"orientation":0};
+if (window.Framer) {window.Framer.Defaults.DeviceComponent = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-8-space-gray","contentScale":1,"hideBezel":true,"orientation":0};
 }
 window.FramerStudioInfo = {"deviceImagesUrl":"\/_server\/resources\/DeviceImages","documentTitle":"tutorial02-wrap.framer"};
 
