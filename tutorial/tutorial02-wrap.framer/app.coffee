@@ -5,11 +5,4 @@ Utils.globalLayers(sketch)
 
 scroll = ScrollComponent.wrap(sketch.homeScreen)
 scroll.scrollHorizontal = false
-
-
-	
-
-	
-
-
-	
+scroll.height = Screen.height - 70
