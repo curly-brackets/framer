@@ -50,9 +50,9 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 				"originalName": "bottomNav",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 0,
+					"x": -1,
 					"y": 619,
-					"width": 375,
+					"width": 377,
 					"height": 48
 				},
 				"visible": true,
@@ -62,9 +62,9 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 				"image": {
 					"path": "images/Layer-bottomNav-rjjbotlc.png",
 					"frame": {
-						"x": 0,
+						"x": -1,
 						"y": 619,
-						"width": 375,
+						"width": 377,
 						"height": 48
 					}
 				},
@@ -122,23 +122,14 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 				"originalName": "navSocial",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 0,
-					"y": 611,
-					"width": 375,
+					"x": -1,
+					"y": 1395,
+					"width": 377,
 					"height": 56
 				},
 				"visible": true,
 				"metadata": {
 					"opacity": 1
-				},
-				"image": {
-					"path": "images/Layer-navSocial-nki3rkfe.png",
-					"frame": {
-						"x": 0,
-						"y": 611,
-						"width": 375,
-						"height": 56
-					}
 				},
 				"children": [
 					{
@@ -149,7 +140,7 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": 56,
-							"y": 627,
+							"y": 1411,
 							"width": 20,
 							"height": 24
 						},
@@ -161,7 +152,7 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 							"path": "images/Layer-avatar2-mzbcmtbd.png",
 							"frame": {
 								"x": 56,
-								"y": 627,
+								"y": 1411,
 								"width": 20,
 								"height": 24
 							}
@@ -176,7 +167,7 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": 74,
-							"y": 627,
+							"y": 1411,
 							"width": 20,
 							"height": 24
 						},
@@ -188,7 +179,7 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 							"path": "images/Layer-avatar3-mtq4mejb.png",
 							"frame": {
 								"x": 74,
-								"y": 627,
+								"y": 1411,
 								"width": 20,
 								"height": 24
 							}
@@ -203,7 +194,7 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": 92,
-							"y": 627,
+							"y": 1411,
 							"width": 24,
 							"height": 24
 						},
@@ -215,7 +206,7 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 							"path": "images/Layer-counter-otjdmkyy.png",
 							"frame": {
 								"x": 92,
-								"y": 627,
+								"y": 1411,
 								"width": 24,
 								"height": 24
 							}
@@ -230,7 +221,7 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": 17,
-							"y": 628,
+							"y": 1412,
 							"width": 22,
 							"height": 22
 						},
@@ -242,9 +233,90 @@ window.__imported__["tutorial02@1x/layers.json.js"] = [
 							"path": "images/Layer-like-mjq3oddf.png",
 							"frame": {
 								"x": 17,
-								"y": 628,
+								"y": 1412,
 								"width": 22,
 								"height": 22
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "58BC998D-CD2A-4A07-AF0C-42EE48EEA50E",
+						"kind": "group",
+						"name": "share",
+						"originalName": "share",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 338,
+							"y": 1412,
+							"width": 18,
+							"height": 22
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-share-nthcqzk5.png",
+							"frame": {
+								"x": 338,
+								"y": 1412,
+								"width": 18,
+								"height": 22
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "04D70EB7-2793-4910-B2BD-A7CF5C614D3C",
+						"kind": "group",
+						"name": "ribbon",
+						"originalName": "ribbon",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 294,
+							"y": 1413,
+							"width": 16,
+							"height": 20
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-ribbon-mdrenzbf.png",
+							"frame": {
+								"x": 294,
+								"y": 1413,
+								"width": 16,
+								"height": 20
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "624E5F3D-92BA-4BC0-ADCA-8D3E10F3B4E7",
+						"kind": "group",
+						"name": "socNavBG",
+						"originalName": "socNavBG",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": -1,
+							"y": 1395,
+							"width": 377,
+							"height": 56
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 0.6024682971014492
+						},
+						"image": {
+							"path": "images/Layer-socNavBG-nji0rtvg.png",
+							"frame": {
+								"x": -1,
+								"y": 1395,
+								"width": 377,
+								"height": 56
 							}
 						},
 						"children": []
