@@ -16,7 +16,7 @@ likeImg = new Layer
 	y: 604
 	width:27
 	height: 27
-	visible: false
+	opacity: 0
 
 flowComp.header = sketch.statusBar
 
@@ -24,7 +24,7 @@ flowComp.footer = sketch.bottomNav
 flowComp.footer.y= 619
 
 flowComp.showNext(home)
-flowComp.header.y = 20
+# flowComp.header.y = 20
 
 # Show our "article" on tap
 homeScreen.onTap ->
@@ -47,17 +47,23 @@ cover.onTap ->
 
 exit.onTap ->	
 	flowComp.showPrevious(article)
-		
-like.states.liked =
-	start:
-		likeImg.visible = true
-	end:
-		likeImg.visible = false
 
-like.states.switchInstant "end"	
+
+like.states =
+	start:
+		opacity: 0
+	end:
+		opacity: 1
+		
+likeImg.states =
+	start:
+		opacity: 1
+	end:
+		opacity: 0
 
 like.onTap ->
 	like.stateCycle()
+	likeImg.stateCycle()
 
 
 
