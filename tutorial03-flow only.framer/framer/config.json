@@ -7,9 +7,9 @@
   "cachedDeviceWidth" : 375,
   "fullScreen" : false,
   "deviceType" : "apple-iphone-8-space-gray",
-  "sharedPrototype" : 0,
+  "sharedPrototype" : true,
   "propertyPanelToggleStates" : {
-
+    "Filters" : false
   },
   "projectId" : "10483C76-BAAA-4651-9C9C-D93F2B66EE47",
   "deviceOrientation" : 0,
