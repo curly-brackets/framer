@@ -8,10 +8,13 @@ Framer.Defaults.Animation =
 
 # Set-up FlowComponent
 flowComp = new FlowComponent
-bottomNav.y = 619
-bottomNav.z = 100
+tabNav.y = 619
+tabNav.z = 100
+tabNav.parent = flowComp
 navSocial.y = 611
 navSocial.parent = flowComp
+navSocial.z = 101
+navSocial.opacity = 0
 	
 likeImg = new Layer
 	image: "images/imgLikeL.png"
@@ -24,9 +27,8 @@ likeImg = new Layer
 flowComp.showNext(home)
 
 # Show our "article" on tap
-homeScreen.onTap ->
+marine.onTap ->
     flowComp.showNext(article)
-    navSocial.z = 20
     
 back.onTap ->
     flowComp.showPrevious(home)
@@ -38,22 +40,49 @@ cover.onTap ->
 exit.onTap ->	
 	flowComp.showPrevious(article)
 
+tabNav.states =
+	Invisible:
+		opacity:0
+	Visible:
+		opacity:1
+		
+navSocial.states =
+	Invisible:
+		opacity:0
+	Visible:
+		opacity:1
 
 like.states =
-	start:
+	Invisible:
 		opacity: 0
-	end:
+	Visible:
 		opacity: 1
 		
 likeImg.states =
-	start:
+	Invisible:
 		opacity: 1
-	end:
+	Visible:
 		opacity: 0
 
 likeImg.onTap ->
 	like.stateCycle()
 	likeImg.stateCycle()
+# delete likeImg.states.default
+	
+marine.onTap ->
+	tabNav.states.switch "Invisible"
+	navSocial.states.switch "Visible"
+	
+back.onTap ->
+	navSocial.states.switch "Invisible"
+	tabNav.states.switch "Visible"
+
+cover.onTap ->
+	navSocial.states.switch "Invisible"
+	
+exit.onTap ->
+	navSocial.states.switch "Visible"
+	
 
 
 
