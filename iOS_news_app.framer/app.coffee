@@ -1,5 +1,5 @@
 # Import file "tutorial02"
-sketch = Framer.Importer.load("imported/tutorial02@1x", scale: 1)
+sketch = Framer.Importer.load("imported/iOS_news_app@1x", scale: 1)
 Utils.globalLayers(sketch)
 
 Framer.Defaults.Animation = 
